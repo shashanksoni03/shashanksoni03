@@ -25,40 +25,24 @@
 
 ---
 
-## `whoami` 👨‍💻
 
-```python
-class ShashankSoni:
-    def __init__(self):
-        self.education = "BCA Student"
-        self.currently_learning = "Python"
-        self.next_goal = "Data Structures & Algorithms"
-        self.also_planning_to_learn = "Frontend Development"
-        self.career_goal = "Software Engineer"
-        self.mindset = "Learn, practice, build, repeat"
 
-    def introduce(self):
-        return "Every expert was once a beginner."
+👨‍💻 About Me
 
-me = ShashankSoni()
-print(me.introduce())
-```
+- 🎓 Pursuing Bachelor of Computer Applications (BCA).
 
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**.
-- 🐍 Currently learning **Python** and strengthening my programming fundamentals.
-- 🧠 Planning to learn **Data Structures & Algorithms (DSA)** next.
-- 🎨 Also planning to learn **Frontend Development**.
-- 💡 Interested in problem-solving, clean code, and building useful applications.
-- 🚀 Working towards my goal of becoming a **Software Engineer**.
+- 🐍 Currently learning Python and improving my programming fundamentals.
 
-> *Learning one step at a time. Building a stronger foundation every day.*
+- 🧠 Planning to learn Data Structures & Algorithms (DSA).
 
-## ⚙️ Technologies & Tools
+- 🎨 Planning to explore Frontend Development.
 
-<div align="center">
+- 💡 Interested in problem-solving and building useful applications.
 
-**Currently Learning**
+- 🚀 Aspiring to become a Software Engineer.
 
+Learning every day. Building my skills one step at a time.
+> *Learning every day. Building my skills one step at a time.*
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
 
 **Planning to Learn**
